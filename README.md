@@ -1,16 +1,13 @@
-# flutter_tatilsepeti
+<h2 align="center">Tatil Sepeti Mobile App Design Clone Project</h2>
+<p align = center>Devam Etmekte</p>
 
-A new Flutter project.
+![Clean Modern App Portfolio Mockup Presentation (1)](https://github.com/FurkanArslanF/flutter_tatilsepeti/assets/74710096/c053d172-f01d-4c5e-aa78-38a70583615c)
 
-## Getting Started
+## TR (Türkçe Açıklama)
 
-This project is a starting point for a Flutter application.
+<p>Bu proje, benim tarafımdan geliştirilen kişisel bir inisiyatiftir ve mevcut bir uygulamanın temel tasarım öğelerini ve işlevselliğini yeniden oluşturmayı amaçlamaktadır. Tatil Sepeti Mobil Uygulaması Tasarım Klon Projesi, tasarım ve kullanıcı deneyimi becerilerimi geliştirmek amacıyla oluşturulmuş bir özgün çalışmadır.</p>
 
-A few resources to get you started if this is your first Flutter project:
+## EN (English Description)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+<p>This is a personal initiative I've developed, recreating the fundamental design elements and functionality of an existing application. The Tatil Sepeti Mobile App Design Clone Project aims to redesign and improve the user-friendly interface and user experience, as well as enhance my design skills.</p>
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
